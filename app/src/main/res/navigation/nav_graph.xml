@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.weather.presentation.fragment.MainFragment"
+        android:label="main_fragment"
+        tools:layout="@layout/main_fragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_savedCitiesFragment"
+            app:destination="@id/savedCitiesFragment"
+            app:popUpTo="@id/mainFragment"
+            app:popUpToInclusive="false" />
+    </fragment>
+    <fragment
+        android:id="@+id/chooseCityFragment"
+        android:name="com.example.weather.presentation.fragment.ChooseCityFragment"
+        android:label="fragment_choose_city"
+        tools:layout="@layout/fragment_choose_city" >
+        <action
+            android:id="@+id/action_chooseCityFragment_to_mainFragment"
+            app:destination="@id/mainFragment"
+            app:popUpToInclusive="false" />
+    </fragment>
+    <fragment
+        android:id="@+id/savedCitiesFragment"
+        android:name="com.example.weather.presentation.fragment.SavedCitiesFragment"
+        android:label="fragment_saved_cities"
+        tools:layout="@layout/fragment_saved_cities" >
+        <action
+            android:id="@+id/action_savedCitiesFragment_to_mainFragment"
+            app:destination="@id/mainFragment"
+            app:popUpToInclusive="false" />
+        <action
+            android:id="@+id/action_savedCitiesFragment_to_chooseCityFragment"
+            app:destination="@id/chooseCityFragment"
+            app:popUpTo="@id/savedCitiesFragment"
+            app:popUpToInclusive="false" />
+    </fragment>
+</navigation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/Weather/app/src/main/res/drawable/city_card_background.xml" value="0.1" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/Weather/app/src/main/res/layout/city_card.xml" value="0.42552083333333335" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/Weather/app/src/main/res/layout/fragment_choose_city.xml" value="0.3138888888888889" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/Weather/app/src/main/res/layout/fragment_saved_cities.xml" value="0.3625" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/Weather/app/src/main/res/layout/main_activity.xml" value="0.3142857142857143" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/Weather/app/src/main/res/layout/main_fragment.xml" value="0.4173913181932306" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/layout-land/fragment_saved_cities.xml" value="0.7360360360360361" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/layout-land/main_fragment.xml" value="0.44121532364597094" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/layout/city_card.xml" value="0.42552083333333335" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/layout/fragment_choose_city.xml" value="0.42552083333333335" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/layout/fragment_saved_cities.xml" value="0.421875" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/layout/main_activity.xml" value="0.3489583333333333" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/layout/main_fragment.xml" value="0.42552083333333335" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.375" />
+        <entry key="..\:/IdeaProjectsSkillbox/android_lvl2/presentation_patterns/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

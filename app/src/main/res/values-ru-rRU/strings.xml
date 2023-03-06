@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="choose_city" translatable="false">список городов</string>
+    <string name="choose_city_text" translatable="false">Нажмите кнопку список городов</string>
+    <string name="enter_city_name" translatable="false">Введите название города</string>
+    <string name="pick" translatable="false">выбрать</string>
+    <string name="my_location" translatable="false">мое местонахождение</string>
+    <string name="current_temperature" translatable="false">Текущая температура:</string>
+    <string name="current_wind_speed" translatable="false">Текущая скорость ветра</string>
+    <string name="speed" translatable="false">м/с</string>
+    <string name="last_update" translatable="false">Последнее обновление:</string>
+    <string name="no_data" translatable="false">нет данных</string>
+    <string name="refresh" translatable="false">обновить</string>
+    <string name="morning" translatable="false">Утро</string>
+    <string name="day" translatable="false">День</string>
+    <string name="evening" translatable="false">Вечер</string>
+    <string name="night" translatable="false">Ночь</string>
+    <string name="saved_cities" translatable="false">Список городов</string>
+    <string name="delete" translatable="false">удалить</string>
+    <string name="choose" translatable="false">выбрать</string>
+    <string name="use_my_location" translatable="false">моя геолокация</string>
+    <string name="new_city" translatable="false">добавить город</string>
+    <string name="my_location_string" translatable="false">Моя геолокация</string>
+    <string name="please_give_permission" translatable="false">Нужно ваше разрешение на использование геолокации</string>
+    <string name="choose_city_to_delete" translatable="false">Выберите город для удаления</string>
+    <string name="choose_city_to_show" translatable="false">Выберите город или добавьте новый</string>
+
+    <string name="wind_speed" translatable="false">текущая скорость ветра в метрах в секунду</string>
+    <string name="temperature" translatable="false">текущая температура в градусах Цельсия</string>
+    <string name="degree_text" translatable="false">градусов</string>
+    <string name="meters_per_seconds" translatable="false">метров в секунду</string>
+    <string name="loading" translatable="false">загрузка</string>
+
+    <string name="sunny" translatable="false">солнечно</string>
+    <string name="partly_cloudy" translatable="false">облачно</string>
+    <string name="foggy" translatable="false">туман</string>
+    <string name="rain" translatable="false">дождь</string>
+    <string name="snow" translatable="false">снег</string>
+    <string name="rain_showers" translatable="false">ливень</string>
+    <string name="morning_temperature">температура утром в градусах Цельсия</string>
+    <string name="day_temperature">температура днем в градусах Целься</string>
+    <string name="evening_temperature">температура вечером в градусах Цельсия</string>
+    <string name="night_temperature">температура ночью в градусах Цельсия</string>
+</resources>

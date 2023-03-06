@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">Weather</string>
+    <string name="choose_city" translatable="false">choose city</string>
+    <string name="choose_city_text" translatable="false">Press choose city button</string>
+    <string name="enter_city_name" translatable="false">Enter city name</string>
+    <string name="pick" translatable="false">pick</string>
+    <string name="my_location" translatable="false">my location</string>
+    <string name="current_temperature" translatable="false">Current temperature:</string>
+    <string name="current_wind_speed" translatable="false">Current wind speed:</string>
+    <string name="degree" translatable="false">°C</string>
+    <string name="speed" translatable="false">m/s</string>
+    <string name="last_update" translatable="false">Last update:</string>
+    <string name="no_data" translatable="false">no data</string>
+    <string name="refresh" translatable="false">refresh</string>
+    <string name="morning" translatable="false">Morning</string>
+    <string name="day" translatable="false">Day</string>
+    <string name="evening" translatable="false">Evening</string>
+    <string name="night" translatable="false">Night</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="saved_cities" translatable="false">Saved cities</string>
+    <string name="delete" translatable="false">delete</string>
+    <string name="choose" translatable="false">choose</string>
+    <string name="use_my_location" translatable="false">use my location</string>
+    <string name="new_city" translatable="false">new city</string>
+    <string name="my_location_string" translatable="false">My location</string>
+    <string name="please_give_permission" translatable="false">Your location permission is needed</string>
+    <string name="choose_city_to_delete" translatable="false">Please, choose city you want to delete</string>
+    <string name="choose_city_to_show" translatable="false">Please, choose any city or add new</string>
+
+    <string name="wind_speed" translatable="false">current wind speed in meters per second is</string>
+    <string name="temperature" translatable="false">current temperature in degrees Celsius is</string>
+    <string name="degree_text" translatable="false">degree</string>
+    <string name="meters_per_seconds" translatable="false">meters per seconds</string>
+    <string name="loading" translatable="false">loading</string>
+
+    <string name="sunny" translatable="false">sunny</string>
+    <string name="partly_cloudy" translatable="false">partly cloudy</string>
+    <string name="foggy" translatable="false">foggy</string>
+    <string name="rain" translatable="false">rain</string>
+    <string name="snow" translatable="false">snow</string>
+    <string name="rain_showers" translatable="false">rain showers</string>
+
+    <string name="morning_temperature">morning temperature in degrees Celsius is</string>
+    <string name="day_temperature">day temperature in degrees Celsius is</string>
+    <string name="evening_temperature">evening temperature in degrees Celsius is</string>
+    <string name="night_temperature">night temperature in degrees Celsius is</string>
+
+</resources>
